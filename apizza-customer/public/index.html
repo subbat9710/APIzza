@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100vh;">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.fog.min.js"></script>
+    <style>
+      .vanta-background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 110%;
+        height: 100%;
+        z-index: -1;
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div class="vanta-background"></div>
+    <div id="app"></div>
+    <script>
+      VANTA.FOG({
+        el: ".vanta-background",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        highlightColor: 0xffb400,
+        midtoneColor: 0xfcecdf,
+        lowlightColor: 0xfcae00,
+        baseColor: 0xf5ca20,
+        blurFactor: 0.32,
+        speed: 0.00,
+        zoom: 5.90
+      })
+    </script>
+  </body>
+</html>
