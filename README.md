@@ -12,6 +12,10 @@ Employee:
 
 ![dashboard](https://github.com/subbat9710/APIzza/assets/25064570/348d7e03-a554-4b8f-ba24-b6f177fa304b)
 
+API Dcoumentation:
+1. Integrated Swagger for API documentation for developers
+![swagger](https://github.com/subbat9710/APIzza/assets/25064570/6dbb3d74-3e3e-4ffd-97af-b0eed82a7b40)
+
 Customer:
 1. Customer can able to purchase multiple products such as specialty pizza, sides and beverages from the list
 2. Customer can able to made their own pizza with size selection, crusts selection, sauces selection and multiple toppings selection
