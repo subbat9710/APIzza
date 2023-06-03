@@ -3,7 +3,7 @@
 Key Features:
 Employee:
 1. Employee can able to add products (sides, specialty pizza, and beverages)
-2. Employee can able to edit, delete the product
+2. Employee can able to create, edit, delete the product
 3. Employee can able to see the list of the order made by customer and able to track the order
 4. Employee can able to see the sales report per day based on the orders, delivery type, date for completed orders
 5. Employee can able to see the sales reports of products made per day
