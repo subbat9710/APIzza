@@ -20,7 +20,7 @@ Customer:
 1. Customer can able to purchase multiple products such as specialty pizza, sides, and beverages from the list
 2. Customer can able to made their own pizza with size selection, crusts selection, sauces selection and multiple toppings selection
 3. Customer don't have to acuthenticate to purchase the products but if they add the products on the cart it will remains untill they remove or process the checkout. Added a ability to sotre the customer data on the browser even they refresh the page the product wil be still on the cart.
-4. After making an order customer will receive an email confirmation with order id and date.
+4. After making an order customer will receive an email confirmation with order id, and date.
 5. Customer will get notified when the order is ready for pickup or delivery
 
 Specialty Pizza List:
