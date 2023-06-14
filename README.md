@@ -13,15 +13,15 @@ Employee:
 ![dashboard](https://github.com/subbat9710/APIzza/assets/25064570/348d7e03-a554-4b8f-ba24-b6f177fa304b)
 
 API Dcoumentation:
-1. Integrated Swagger for API documentation for developers
+1. Integrated Swagger for API documentation for developers.
 ![swagger](https://github.com/subbat9710/APIzza/assets/25064570/6dbb3d74-3e3e-4ffd-97af-b0eed82a7b40)
 
 Customer:
-1. Customer can able to purchase multiple products such as specialty pizza, sides, and beverages from the list
-2. Customer can able to made their own pizza with size selection, crusts selection, sauces selection and multiple toppings selection
+1. Customer can able to purchase multiple products such as specialty pizza, sides, and beverages from the list.
+2. Customer can able to made their own pizza with size selection, crusts selection, sauces selection and multiple toppings selection.
 3. Customer don't have to acuthenticate to purchase the products but if they add the products on the cart it will remains untill they remove or process the checkout. Added a ability to sotre the customer data on the browser even they refresh the page the product wil be still on the cart.
 4. After making an order customer will receive an email confirmation with order id, and date.
-5. Customer will get notified when the order is ready for pickup or delivery
+5. Customer will get notified when the order is ready for pickup or delivery.
 
 Specialty Pizza List:
 ![customer](https://github.com/subbat9710/APIzza/assets/25064570/cd54cd2f-12ba-4818-b242-8fe2bf53d5c1)
