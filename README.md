@@ -4,11 +4,11 @@ Key Features:
 Employee:
 1. Employee can able to add products (sides, specialty pizza, and beverages)
 2. Employee can able to create, edit, delete the product.
-3. Employee can able to see the list of the order made by customer and, able to track the order.
-4. Employee can able to see the sales report per day based on the orders, delivery type, date for completed orders.
-5. Employee can able to see the sales reports of products made per day.
-6. Employee have to create and account to get access to the employee portal.
-7. Dashboard features for the employee.
+3. Employee can able to see the list of the order made by customer and, able to track the order
+4. Employee can able to see the sales report per day based on the orders, delivery type, date for completed orders
+5. Employee can able to see the sales reports of products made per day
+6. Employee have to create and account to get access to the employee portal
+7. Dashboard features for the employee
 
 ![dashboard](https://github.com/subbat9710/APIzza/assets/25064570/348d7e03-a554-4b8f-ba24-b6f177fa304b)
 
