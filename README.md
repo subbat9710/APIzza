@@ -18,7 +18,7 @@ API Documentation:
 
 Customer:
 1. Customers can able to purchase multiple products such as specialty pizza, sides, and beverages from the list.
-2. Customers can able to make their own pizza with size selection, crusts selection, sauces selection, and multiple toppings selection.
+2. Customers can able to make their own pizza with size selection, crust selection, sauces selection, and multiple toppings selection.
 3. Customers don't have to authenticate to purchase the products but if they add the products to the cart it will remain until they remove or process the checkout. Added an ability to store the customer data on the browser even if they refresh the page the product will be still on the cart.
 4. After making an order customer will receive an email confirmation with the order id, and date.
 5. Customer will get notified when the order is ready for pickup or delivery.
