@@ -9,7 +9,7 @@ namespace APIzza.Controllers
 {
     [Route("api/reports")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class ReportsController : ControllerBase
     {
         private IPendingOrders pendingOrders;

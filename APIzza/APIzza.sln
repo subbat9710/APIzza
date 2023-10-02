@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIzza", "APIzza.csproj", "{9AB02BB3-96B6-47BB-A1D6-9C7CE6EE3BFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIzza", "APIzza.csproj", "{9AB02BB3-96B6-47BB-A1D6-9C7CE6EE3BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApizzaProject.Tests", "..\ApizzaProject.Tests\ApizzaProject.Tests.csproj", "{66D0DDC6-B53B-471E-AFF0-CCEE0E3E9E8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9AB02BB3-96B6-47BB-A1D6-9C7CE6EE3BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AB02BB3-96B6-47BB-A1D6-9C7CE6EE3BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AB02BB3-96B6-47BB-A1D6-9C7CE6EE3BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D0DDC6-B53B-471E-AFF0-CCEE0E3E9E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D0DDC6-B53B-471E-AFF0-CCEE0E3E9E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D0DDC6-B53B-471E-AFF0-CCEE0E3E9E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D0DDC6-B53B-471E-AFF0-CCEE0E3E9E8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
