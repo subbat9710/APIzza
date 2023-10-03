@@ -9,7 +9,7 @@ namespace APIzza.Controllers
 {
     [Route("api/reports")]
     [ApiController]
-    //[Authorize]
+   // [Authorize]
     public class ReportsController : ControllerBase
     {
         private IPendingOrders pendingOrders;
@@ -24,7 +24,8 @@ namespace APIzza.Controllers
         [HttpGet("historical")]  //Employee can see the Historical Reports
         public ActionResult<IList<PendingOrders>> GetHistoricalReports()
         {
-            string username = User.Identity.Name;
+            //string username = User.Identity.Name;
+            string username = "tula123";
             int employeeId = userDao.GetUser(username).UserId;
             return Ok(pendingOrders.ViewHistoricalReport(employeeId));
         }
