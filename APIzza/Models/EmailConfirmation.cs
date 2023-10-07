@@ -24,7 +24,7 @@ namespace APIzza.Models
             mail.IsBodyHtml = true;
             SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
             smtp.UseDefaultCredentials = false;
-            smtp.Credentials = new NetworkCredential("APIzzabusiness@gmail.com", "ydowmolnhkxdzsvi");
+            smtp.Credentials = new NetworkCredential("APIzzabusiness@gmail.com", "uatatiidrpsldcrm");
             smtp.EnableSsl = true;
             smtp.Send(mail);
         }
@@ -40,7 +40,7 @@ namespace APIzza.Models
             mail.IsBodyHtml = false;
             SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
             smtp.UseDefaultCredentials = false;
-            smtp.Credentials = new NetworkCredential("APIzzabusiness@gmail.com", "ydowmolnhkxdzsvi");
+            smtp.Credentials = new NetworkCredential("APIzzabusiness@gmail.com", "uatatiidrpsldcrm");
             smtp.EnableSsl = true;
             smtp.Send(mail);
         }

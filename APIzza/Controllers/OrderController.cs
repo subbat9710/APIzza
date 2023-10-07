@@ -25,7 +25,8 @@ namespace APIzza.Controllers
         {
             EmailConfirmation email = new EmailConfirmation(orderDAO);
 
-            string username = User.Identity.Name;
+            //string username = User.Identity.Name;
+            string username = "tula123";
             int userId = userDao.GetUser(username).UserId;
             bool updated = orderDAO.UpdateOrderStatus(id, updateStatus, userId);
             email.OrderStatus(id);
