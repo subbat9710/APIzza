@@ -13,6 +13,7 @@ namespace APIzza.BusinessLogic
             this.cartDao = _cartDao;
         }
 
+        //Process the checkout when adding the items on the cart
         public CartDto ProcessCheckout(CartDto cart)
         {
 
