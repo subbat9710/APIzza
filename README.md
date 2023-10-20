@@ -16,6 +16,9 @@ API Documentation:
 1. Integrated Swagger for API documentation for developers.
 ![swagger](https://github.com/subbat9710/APIzza/assets/25064570/6dbb3d74-3e3e-4ffd-97af-b0eed82a7b40)
 
+2. Database Diagram:
+![database_diagram](https://github.com/subbat9710/APIzza/assets/25064570/d5b56fcc-3b59-4a29-8974-46e06af3b9a5)
+
 Customer:
 1. Customers can able to purchase multiple products such as specialty pizza, sides, and beverages from the list.
 2. Customers can able to make their own pizza with size selection, crust selection, sauce selection, and multiple toppings selection.
