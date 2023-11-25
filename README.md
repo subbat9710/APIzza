@@ -1,4 +1,4 @@
-# APIzza an online Pizza Ordering Application
+# APIzza an online Pizza Ordering Application (Full-Stack Application)
 
 Key Features:
 Employee:
